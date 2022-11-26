@@ -34,7 +34,7 @@ tqdm==4.64.0
 ```
 
 ## How to train (reproducibility)
-1. In `dataset.py`, edit `dataset_dir` to the path of your `AD_NC` dataset.
+1. In `dataset.py`, edit `dataset_dir` to the path of your `AD_NC` dataset ([link](https://drive.google.com/file/d/1sgGTl6cP8gfUpdBq7_InlURPzGEWfB6-/view?usp=share_link)).
 2. With the dependencies installed, run
 ```
 python train.py
